@@ -1,2 +1,2 @@
 # E-learning
-Our is an Elearning Management Website 
+E-Learning Management System
